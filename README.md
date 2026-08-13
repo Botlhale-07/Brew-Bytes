@@ -1,6 +1,6 @@
 # Brew-Bytes
 ST10515156 Botlhale Shabangu
-## Project Overview
+## Project Overview 
 NAME: BREW AND BYTES 
 
 Brew and Bytes is a modern cafe that is designed for remote workers, students, and gamers featuring high speed internet, specialty coffee and private study pods. It gives people a space to work calmly and quietly while offering coffee and tea with snacks while hard at work or just there for recreational reasons. 
